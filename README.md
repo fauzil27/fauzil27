@@ -44,7 +44,7 @@ Hi! I'm Fauzil. Welcome to my special GitHub profile repository!
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
