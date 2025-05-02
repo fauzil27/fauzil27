@@ -55,6 +55,8 @@ Hi! I'm Fauzil. Welcome to my special GitHub profile repository!
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000000?style=flat-square&logo=chartjs&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-000000?style=flat-square&logo=react-hook-form&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-000000?style=flat-square&logo=react-query&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
@@ -62,6 +64,14 @@ Hi! I'm Fauzil. Welcome to my special GitHub profile repository!
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/More-6a11cb?style=flat-square&logo=star&logoColor=fff" alt="More"/>
+  <img src="https://img.shields.io/badge/and%20many%20more-f7971e?style=flat-square&logo=sparkles&logoColor=fff" alt="and many more"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-2575fc?style=flat-square&logo=graduation-cap&logoColor=fff" alt="Always Learning"/>
+</p>
+
 
 ### 🗄️ Database
 
