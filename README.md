@@ -34,7 +34,7 @@ Hi! I'm Fauzil. Welcome to my special GitHub profile repository!
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with creative ideas
 - 💬 Ask me about tech, coding, or anything fun
-- 📫 How to reach me: [Email](mailto:fauziladhim27@gmail.com)
+- 📫 How to reach me: [Email](mailto:fauziladhim706@gmail.com)
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I love to explore new things!
 
