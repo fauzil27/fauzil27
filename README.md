@@ -40,21 +40,32 @@ Hi! I'm Fauzil. Welcome to my special GitHub profile repository!
 
 ## 🚀 Tech Stack
 
+### 🧠 Languages
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Built--with-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat-square&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat-square&logo=react-native&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000000?style=flat-square&logo=chartjs&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
-## ✨ Features
+### 🗄️ Database
 
-- Beautiful and interactive profile
-- Easy to customize
-- Showcases your skills and projects
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
 
