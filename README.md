@@ -65,17 +65,16 @@ Hi! I'm Fauzil. Welcome to my special GitHub profile repository!
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/More-6a11cb?style=flat-square&logo=star&logoColor=fff" alt="More"/>
   <img src="https://img.shields.io/badge/and%20many%20more-f7971e?style=flat-square&logo=sparkles&logoColor=fff" alt="and many more"/>
   <img src="https://img.shields.io/badge/Always%20Learning-2575fc?style=flat-square&logo=graduation-cap&logoColor=fff" alt="Always Learning"/>
 </p>
-
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Stats
 
