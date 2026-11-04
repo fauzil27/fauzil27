@@ -17,7 +17,7 @@ Kalau belum ada, hapus saja bagiannya. Lebih baik kosong daripada generik.
 
 | | |
 |---|---|
-| **Languages** | TypeScript, JavaScript, HTML, CSS |
+| **Languages** | TypeScript, JavaScript, Go, HTML, CSS |
 | **Frontend** | React, Next.js, Tailwind CSS, React Query, React Hook Form, Chart.js |
 | **Mobile** | React Native |
 | **Backend** | Node.js, Express |
@@ -36,6 +36,7 @@ Satu kalimat: apa ini dan masalah apa yang diselesaikan. `Next.js` `MySQL`
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fauzil27&show_icons=true&hide_border=true&theme=transparent&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&bg_color=00000000">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fauzil27&show_icons=true&hide_border=true&theme=transparent&title_color=24292f&text_color=57606a&icon_color=57606a&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=fauzil27&amp;show_icons=true&amp;hide_border=true&amp;title_color=c9d1d9&amp;text_color=8b949e&amp;icon_color=8b949e&amp;bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=fauzil27&amp;show_icons=true&amp;hide_border=true&amp;title_color=24292f&amp;text_color=57606a&amp;icon_color=57606a&amp;bg_color=ffffff">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fauzil27&amp;show_icons=true&amp;hide_border=true&amp;title_color=24292f&amp;text_color=57606a&amp;icon_color=57606a&amp;bg_color=ffffff">
 </picture>
