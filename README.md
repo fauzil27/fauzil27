@@ -1,6 +1,6 @@
 # Fauzil
 
-Web and mobile developer. I mostly write TypeScript, with React and Node on the stack.
+Web and Mobile Developer. I primarily work with TypeScript, React, and Node.js, with additional experience in Golang for backend development.
 
 [Email](mailto:fauziladhim706@gmail.com) · [GitHub](https://github.com/fauzil27) · they/them
 
