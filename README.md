@@ -20,7 +20,7 @@ Kalau belum ada, hapus saja bagiannya. Lebih baik kosong daripada generik.
 | **Languages** | TypeScript, JavaScript, Go, HTML, CSS |
 | **Frontend** | React, Next.js, Tailwind CSS, React Query, React Hook Form, Chart.js |
 | **Mobile** | React Native |
-| **Backend** | Node.js, Express |
+| **Backend** | Node.js, Express, Gin |
 | **Database** | MySQL |
 | **Tools** | Git, GitHub, Linux |
 
